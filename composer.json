@@ -1,0 +1,11 @@
+{
+	"name" : "devskyfky/yii-module-vote",
+	"type" : "module",
+	"license" : "MIT",
+	"authors" : [{
+			"name" : "Ivan",
+			"email" : "devskyfly@gmail.com"
+		}
+	],
+	"minimum-stability" : "dev"
+}
